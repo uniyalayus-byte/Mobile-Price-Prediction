@@ -196,27 +196,13 @@ Final Model Selection
 
 ## Project Structure
 
-```text
-Mobile-Price-Range-Prediction/
-│
-├── data/
-│   └── mobile_data.csv
-│
-├── notebooks/
-│   └── Mobile_Price_Prediction.ipynb
-│
-├── images/
-│   └── visualizations
-│
-├── models/
-│   └── trained_models
-│
-├── README.md
-│
-└── requirements.txt
-```
+* Mobile-Price-Range-Prediction
+  * dataset
+    * mobile_data.csv
+  * notebooks
+    * Mobile_Price_Prediction.ipynb
+* README.md
 
----
 
 ## Results
 
